@@ -1,7 +1,7 @@
 clear; clc;
 
 %% Paths & basic setup
-dataDir    = fullfile(pwd,'/archana/dataset_3/psor_seborrheic');              % <-- change if needed
+dataDir    = fullfile(pwd,'give folder path');              % <-- change if needed
 imageSize  = [224 224];                          % small & fast for <800 images
 rng(42);                                         % reproducibility
 
