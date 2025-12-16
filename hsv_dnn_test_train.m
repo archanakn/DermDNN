@@ -1,8 +1,8 @@
 clear; clc;
 
 %% Paths & basic setup
-trainFolder = '/home/user/Downloads/archive(1)/train';
-testFolder  = '/home/user/Downloads/archive(1)/test';
+trainFolder = 'give train folder path';
+testFolder  = 'give test folder path';
 imageSize  = [224 224];                          % small & fast for <800 images
 rng(42);                                         % reproducibility
 
