@@ -202,19 +202,4 @@ figure; plot(recallPR, precisionPR,'LineWidth',2);
 xlabel('Recall'); ylabel('Precision');
 title(sprintf('Precision-Recall Curve (AP = %.3f)', ap)); grid on;
 
-% disp('Per-class metrics:');
-% C = confusionmat(YTrue, YPred, 'Order', classes);
-% confChart = confusionchart(YTrue, YPred, 'Order', classes);
-% confChart.Title = 'Confusion Matrix (Test Set)';
 
-% Precision/Recall/F1 per class
-% prec = diag(C) ./ max(1,sum(C,1))';
-% rec  = diag(C) ./ max(1,sum(C,2));
-% f1   = 2 * (prec.*rec) ./ max(1e-12,(prec+rec));
-% T = table(classes, prec, rec, f1, 'VariableNames',{'Class','Precision','Recall','F1'});
-% disp(T);
-
-    % 'LearnRateSchedule','piecewise',...
-    % 'LearnRateDropFactor',0.1,...
-    % 'LearnRateDropPeriod',10,...
-    % 'L2Regularization',1e-5, ...
