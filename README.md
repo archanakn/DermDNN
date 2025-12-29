@@ -11,11 +11,6 @@ DOI[https://doi.org/10.5281/zenodo.18061986]
 
 This project uses multiple publicly available datasets from Kaggle related to 
 skin disease and lesion analysis. Only selected classes relevant to the study 
-were used; not all categories from each dataset were included.
-
-The datasets referenced are:
-
-
-All datasets are publicly available on Kaggle and are used in accordance with 
-their respective licenses. This repository does not redistribute the datasets.
+were used; not all categories from each dataset were included. All datasets are publicly available on Kaggle and are used in accordance with 
+their respective licenses. This repository does not redistribute the datasets. The datasets used are available in(https://www.kaggle.com/datasets/archanapcs01/dermdnn-watermarksuppression).
 
