@@ -13,26 +13,6 @@ were used; not all categories from each dataset were included.
 
 The datasets referenced are:
 
-- SkinDisease Classification  
-  https://www.kaggle.com/code/yousefzidan101/skindiseas
-
-- Seborrheic Dermatitis  
-  https://www.kaggle.com/datasets/kiranmadevsudham/seborrheic-dermatitis
-
-- Vitiligo Dataset  
-  https://www.kaggle.com/datasets/zienabesam/vitiligo-dataset
-
-- SkinData  
-  https://www.kaggle.com/datasets/hemraj12/skindata
-
-- Skin Cancer (Malignant vs Benign)  
-  https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
-
-- Acne & Rosacea  
-  https://www.kaggle.com/datasets/meriemaadou/acne-et-rosacea
-
-- Lyme Disease Rashes  
-  https://www.kaggle.com/datasets/sshikamaru/lyme-disease-rashes
 
 All datasets are publicly available on Kaggle and are used in accordance with 
 their respective licenses. This repository does not redistribute the datasets.
