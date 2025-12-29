@@ -1,4 +1,6 @@
 # DermDNN
+NOTICE:- This code is related to the manuscript titled "Enhancing Dermatological Image Classification via Luminance-Guided Autoencoder Watermark Suppression" and is currently submitted to THE Visual Computer for review.
+
 A binary classifier for skin diseases. 
 Two main files are added. hsv_dnn for the same folder of images for test and train. hsv_dnn_test_train is for separate folders of test and train images.
 Copy all the .m files to run and run the main file.
