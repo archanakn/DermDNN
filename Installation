@@ -1,0 +1,6 @@
+Install matlab2024a or above
+Packages required :- Image Processing Toolbox, Computer Vision Toolbox, Statistics and Machine Learning Toolbox, Deep Learning Toolbox, Statistics and Machine Learning Toolbox, Parallel Computing Toolbox
+Run the preprocessor(watermark_final.m) 
+Run hsv_dnn.m(If no separate test folder available) or hev_dnn_test_train.m(Separate train and test folders).
+All the other .m files (computeClassWeights.m, makeSample.m, weightedClassificationLayer.m) should be present along with main functions(either hsv_dnn.m or hsv_snn_test_train.m).
+Available preprocessor file(optional):- You can skip step 2 by simply loading preprocNet_new.mat.
